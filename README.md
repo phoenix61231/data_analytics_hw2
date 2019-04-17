@@ -1,5 +1,7 @@
 # data_analytics_hw2
 
+資料來源:https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+
 ## 問題:
  - 由一則對於某間旅館的評論來判斷此飯店是否值得推薦
  - 評論不可信也視為不推薦
